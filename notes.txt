@@ -1,0 +1,15 @@
+# get links of the all categories
+
+# find_all div class='category-container'
+# find table class='category-header'
+# find td class='category-label-td'
+# find a class='category-label-link' get href
+
+# error
+Traceback (most recent call last):
+File "M:\Programs\Python\Python37\lib\site-packages\urllib3\response.py", line 697, in _update_chunk_length
+self.chunk_left = int(line, 16)
+ValueError: invalid literal for int() with base 16: b''
+
+added to "M:\Programs\Python\Python37\Lib\site-packages\urllib3\response.py" next code in line 696:
+line = (len(line)>0 and line or "0")

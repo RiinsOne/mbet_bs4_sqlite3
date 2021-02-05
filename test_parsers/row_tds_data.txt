@@ -1,0 +1,727 @@
+[<div class="category-container" data-category-treeid="21520" data-collapsible="21520" data-collapsible-state="2" data-filtered="true" id="container_21520">
+<table class="category-header">
+<tr>
+<td class="collapse-button buttons-area right-border bottom-border" data-collapsible-clickable-surface="true" rowspan="2">
+<img class="load" src="/cdn/1-63-180/images/loading.gif"/>
+<div class="icon-collapse"></div>
+</td>
+<td class="category-label-td"><a class="category-label-link" href="/su/betting/Football/England/Premier+League+-+21520"><h2 class="category-label" data-ellipsis="{}"><span class="nowrap">Англия.</span> <span class="nowrap">Премьер-лига</span></h2></a></td>
+<td class="show-category-events show-full-category" data-category-events-link-container="true" data-collapsing="true" data-state="showFullCategory">
+<a href="/su/betting/Football/England/Premier+League+-+21520">
+<span data-category-events-link="true">
+<span><img alt="" class="load" src="/cdn/1-63-180/images/loading.gif"/></span>
+<span class="show-all-category-events">Все события</span>
+<span class="show-selected-category-events">Назад</span>
+</span>
+</a>
+</td>
+<td class="sport-stat-td">
+<a data-tooltip='{"position":{"container":".header-content"}}' href="/su/stats/5/2">
+<span class="sport-stat-icon-link"></span>
+</a>
+<span class="tooltip">
+ Статистика
+ </span>
+</td>
+</tr>
+</table>
+<div class="category-content" data-collapsing="true" data-content="present" id="category21520">
+<div class="foot-market-border">
+<div class="foot-market" data-sport-type="Football">
+<div class="scoreboard-component-replacement" data-scoreboard-component="true"></div>
+<table class="coupon-row-item coupone-labels">
+<tbody>
+<tr>
+<th class="first"><span class="name">Название события</span></th>
+<th class="main-row-buttons-header"></th>
+<th class="coupone coupone-width-10" colspan="1" data-tooltip-parent="{}">
+<span class="hint">
+<b>1</b>
+</span>
+<div class="tooltip" id="hint_21520_1">
+ Победа 1
+ </div>
+</th>
+<th class="coupone coupone-width-10" colspan="1" data-tooltip-parent="{}">
+<span class="hint">
+<b>X</b>
+</span>
+<div class="tooltip" id="hint_21520_2">
+ Ничья
+ </div>
+</th>
+<th class="coupone coupone-width-10" colspan="1" data-tooltip-parent="{}">
+<span class="hint">
+<b>2</b>
+</span>
+<div class="tooltip" id="hint_21520_3">
+ Победа 2
+ </div>
+</th>
+<th class="coupone coupone-width-10" colspan="1" data-tooltip-parent="{}">
+<span class="hint">
+<b>1X</b>
+</span>
+<div class="tooltip" id="hint_21520_4">
+ Победа 1 или Ничья
+ </div>
+</th>
+<th class="coupone coupone-width-10" colspan="1" data-tooltip-parent="{}">
+<span class="hint">
+<b>12</b>
+</span>
+<div class="tooltip" id="hint_21520_5">
+ Победа 1 или Победа 2
+ </div>
+</th>
+<th class="coupone coupone-width-10" colspan="1" data-tooltip-parent="{}">
+<span class="hint">
+<b>X2</b>
+</span>
+<div class="tooltip" id="hint_21520_6">
+ Ничья или Победа 2
+ </div>
+</th>
+<th class="coupone coupone-width-10" colspan="1" data-tooltip-parent="{}">
+<span class="hint">
+ Фора<b>1</b>
+</span>
+<div class="tooltip" id="hint_21520_7">
+ Фора, голы
+ </div>
+</th>
+<th class="coupone coupone-width-10" colspan="1" data-tooltip-parent="{}">
+<span class="hint">
+ Фора<b>2</b>
+</span>
+<div class="tooltip" id="hint_21520_8">
+ Фора, голы
+ </div>
+</th>
+<th class="coupone coupone-width-10" colspan="1" data-tooltip-parent="{}">
+<span class="hint">
+ Меньше
+ </span>
+<div class="tooltip" id="hint_21520_9">
+ Тотал голов. Меньше
+ </div>
+</th>
+<th class="coupone coupone-width-10" colspan="1" data-tooltip-parent="{}">
+<span class="hint">
+ Больше
+ </span>
+<div class="tooltip" id="hint_21520_10">
+ Тотал голов. Больше
+ </div>
+</th>
+</tr>
+</tbody>
+</table>
+<div class="bg coupon-row" data-event-name="Шеффилд Юнайтед - Ньюкасл Юнайтед" data-event-path="Football/England/Premier+League/Sheffield+United+vs+Newcastle+United+-+10015423" data-event-treeid="10015423" data-live="false">
+<table class="coupon-row-item">
+<tbody>
+<tr class="sub-row" data-mutable-id="sub-row-1">
+<td class="first member-area" data-member-area="member-area" data-mutable-id="mainRowMembers">
+<table class="member-area-content-table">
+<tr>
+<td class="today-name">
+<div class="command" data-has-additional-markets="true" data-members="true">
+<b class="member-number">1.</b>
+<div class="today-member-name nowrap" data-ellipsis='{"content": {"text": "Шеффилд Юнайтед"}}'>
+<a class="member-link" href="/su/betting/Football/England/Premier+League/Sheffield+United+vs+Newcastle+United+-+10015423">
+<span data-member-link="true">Шеффилд Юнайтед</span>
+</a>
+</div>
+</div>
+</td>
+<td class="blurb-icon-td row-span-2 one-line" rowspan="2">
+<div class="broadcasts-menu-container-blurb">
+</div>
+</td>
+<td class="date" rowspan="2">
+  21:00
+ 
+
+ </td>
+</tr>
+<tr>
+<td class="today-name">
+<div class="command" data-has-additional-markets="true" data-members="true">
+<b class="member-number">2.</b>
+<div class="today-member-name nowrap" data-ellipsis='{"content": {"text": "Ньюкасл Юнайтед"}}'>
+<a class="member-link" href="/su/betting/Football/England/Premier+League/Sheffield+United+vs+Newcastle+United+-+10015423">
+<span data-member-link="true">Ньюкасл Юнайтед</span>
+</a>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td class="main-row-buttons" data-mutable-id="mainRowButtons">
+<table>
+<tr>
+<td class="member-area-button" data-event-statistics="true">
+<div class="member-area-buttons-label">
+<div class="statistics-button-ico"></div>
+<img alt="" class="loading-ico" src="/cdn/1-63-180/images/loading.gif"/>
+</div>
+</td>
+</tr>
+<tr>
+<td class="member-area-button" data-event-more-view="event-more-view" id="event-more-view-10015423" islive="false" treeid="10015423">
+<div class="member-area-buttons-label">
+<span class="event-more-view">+597</span>
+<img alt="" class="loading-ico" src="/cdn/1-63-180/images/loading.gif"/>
+</div>
+</td>
+</tr> </table>
+</td> <td class="price height-column-with-price first-in-main-row coupone-width-1" colspan="1" data-coeff-uuid="-1489675790-65901778846" data-market-type="RESULT" data-mutable-id="S1915358165" data-sel='{"sn":"Шеффилд Юнайтед (победа)","mn":"Результат матча","ewc":"1/1 1","cid":65901778846,"prt":"CP","ewf":"1.0","epr":"2.51","prices":{"0":"151/100","1":"2.51","2":"+151","3":"1.51","4":"-0.662","5":"1.51"}}'>
+<span class="selection-link active-selection" data-prt="CP" data-selection-key="8998019@Match_Result.1" data-selection-price="2.51">2.51</span>
+</td>
+<td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="-533056877-65901779031" data-market-type="RESULT" data-mutable-id="S-1309306010" data-sel='{"sn":"Ничья","mn":"Результат матча","ewc":"1/1 1","cid":65901779031,"prt":"CP","ewf":"1.0","epr":"3.08","prices":{"0":"52/25","1":"3.08","2":"+208","3":"2.08","4":"-0.481","5":"2.08"}}'>
+<span class="selection-link active-selection" data-prt="CP" data-selection-key="8998019@Match_Result.draw" data-selection-price="3.08">3.08</span>
+</td>
+<td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="-1489675788-65901778843" data-market-type="RESULT" data-mutable-id="S1919106487" data-sel='{"sn":"Ньюкасл Юнайтед (победа)","mn":"Результат матча","ewc":"1/1 1","cid":65901778843,"prt":"CP","ewf":"1.0","epr":"3.32","prices":{"0":"58/25","1":"3.32","2":"+232","3":"2.32","4":"-0.431","5":"2.32"}}'>
+<span class="selection-link active-selection" data-prt="CP" data-selection-key="8998019@Match_Result.3" data-selection-price="3.32">3.32</span>
+</td>
+<td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="517318181-65901779243" data-market-type="DOUBLE_CHANCE" data-mutable-id="S-1830547496" data-sel='{"sn":"Шеффилд Юнайтед (победа) или ничья","mn":"Результат","ewc":"1/1 1","cid":65901779243,"prt":"CP","ewf":"1.0","epr":"1.3900000000000001","prices":{"0":"39/100","1":"1.39","2":"-257","3":"0.39","4":"0.39","5":"-2.57"}}'>
+<span class="selection-link active-selection" data-prt="CP" data-selection-key="8998019@Result.HD" data-selection-price="1.39">1.39</span>
+</td>
+<td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="517318178-65901779247" data-market-type="DOUBLE_CHANCE" data-mutable-id="S-1836169979" data-sel='{"sn":"Шеффилд Юнайтед (победа) или Ньюкасл Юнайтед (победа)","mn":"Результат","ewc":"1/1 1","cid":65901779247,"prt":"CP","ewf":"1.0","epr":"1.43","prices":{"0":"43/100","1":"1.43","2":"-233","3":"0.43","4":"0.43","5":"-2.33"}}'>
+<span class="selection-link active-selection" data-prt="CP" data-selection-key="8998019@Result.HA" data-selection-price="1.43">1.43</span>
+</td>
+<td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="517317964-65901778631" data-market-type="DOUBLE_CHANCE" data-mutable-id="S2057726863" data-sel='{"sn":"Ньюкасл Юнайтед (победа) или ничья","mn":"Результат","ewc":"1/1 1","cid":65901778631,"prt":"CP","ewf":"1.0","epr":"1.6","prices":{"0":"3/5","1":"1.60","2":"-167","3":"0.60","4":"0.60","5":"-1.67"}}'>
+<span class="selection-link active-selection" data-prt="CP" data-selection-key="8998019@Result.AD" data-selection-price="1.6">1.60</span>
+</td>
+<td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="-1983320774-65901779226" data-market-type="HANDICAP" data-mutable-id="S2053796509" data-sel='{"sn":"Шеффилд Юнайтед (0)","mn":"Победа с учетом форы","ewc":"1/1 1","cid":65901779226,"prt":"CP","ewf":"1.0","epr":"1.7272727272727273","prices":{"0":"8/11","1":"1.727","2":"-138","3":"0.727","4":"0.727","5":"-1.38"}}'>
+     (0)<br/> <span class="selection-link active-selection" data-prt="CP" data-selection-key="8998019@To_Win_Match_With_Handicap10.HB_H" data-selection-price="1.72727">1.727</span>
+</td> <td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="-1983320781-65901779239" data-market-type="HANDICAP" data-mutable-id="S2040677382" data-sel='{"sn":"Ньюкасл Юнайтед (0)","mn":"Победа с учетом форы","ewc":"1/1 1","cid":65901779239,"prt":"CP","ewf":"1.0","epr":"2.27","prices":{"0":"127/100","1":"2.27","2":"+127","3":"1.27","4":"-0.787","5":"1.27"}}'>
+     (0)<br/> <span class="selection-link active-selection" data-prt="CP" data-selection-key="8998019@To_Win_Match_With_Handicap10.HB_A" data-selection-price="2.27">2.27</span>
+</td> <td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="-1975858847-65901778668" data-market-type="TOTAL" data-mutable-id="S-1802118316" data-sel='{"sn":"Меньше 2.5","mn":"Тотал голов","ewc":"1/1 1","cid":65901778668,"prt":"CP","ewf":"1.0","epr":"1.62","prices":{"0":"31/50","1":"1.62","2":"-162","3":"0.62","4":"0.62","5":"-1.62"}}'>
+     (2.5)<br/> <span class="selection-link active-selection" data-prt="CP" data-selection-key="8998019@Total_Goals.Under_2.5" data-selection-price="1.62">1.62</span>
+</td>
+<td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="-1257219441-65901778626" data-market-type="TOTAL" data-mutable-id="S-1763780702" data-sel='{"sn":"Больше 2.5","mn":"Тотал голов","ewc":"1/1 1","cid":65901778626,"prt":"CP","ewf":"1.0","epr":"2.44","prices":{"0":"36/25","1":"2.44","2":"+144","3":"1.44","4":"-0.695","5":"1.44"}}'>
+     (2.5)<br/> <span class="selection-link active-selection" data-prt="CP" data-selection-key="8998019@Total_Goals.Over_2.5" data-selection-price="2.44">2.44</span>
+</td>
+</tr> </tbody>
+</table>
+<div class="coupon-row-item sport-stats coupon-statistics" data-event-statistics-container="true" data-loaded="false">
+</div>
+</div>
+<div class="bg coupon-row" data-event-name="Бернли - Манчестер Юнайтед" data-event-path="Football/England/Premier+League/Burnley+vs+Manchester+United+-+10784877" data-event-treeid="10784877" data-live="false">
+<table class="coupon-row-item">
+<tbody>
+<tr class="sub-row" data-mutable-id="sub-row-1">
+<td class="first member-area" data-member-area="member-area" data-mutable-id="mainRowMembers">
+<table class="member-area-content-table">
+<tr>
+<td class="today-name">
+<div class="command" data-has-additional-markets="true" data-members="true">
+<b class="member-number">1.</b>
+<div class="today-member-name nowrap" data-ellipsis='{"content": {"text": "Бернли"}}'>
+<a class="member-link" href="/su/betting/Football/England/Premier+League/Burnley+vs+Manchester+United+-+10784877">
+<span data-member-link="true">Бернли</span>
+</a>
+</div>
+</div>
+</td>
+<td class="blurb-icon-td row-span-2 one-line" rowspan="2">
+<div class="broadcasts-menu-container-blurb">
+</div>
+</td>
+<td class="date" rowspan="2">
+  23:15
+ 
+
+ </td>
+</tr>
+<tr>
+<td class="today-name">
+<div class="command" data-has-additional-markets="true" data-members="true">
+<b class="member-number">2.</b>
+<div class="today-member-name nowrap" data-ellipsis='{"content": {"text": "Манчестер Юнайтед"}}'>
+<a class="member-link" href="/su/betting/Football/England/Premier+League/Burnley+vs+Manchester+United+-+10784877">
+<span data-member-link="true">Манчестер Юнайтед</span>
+</a>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td class="main-row-buttons" data-mutable-id="mainRowButtons">
+<table>
+<tr>
+<td class="member-area-button" data-event-statistics="true">
+<div class="member-area-buttons-label">
+<div class="statistics-button-ico"></div>
+<img alt="" class="loading-ico" src="/cdn/1-63-180/images/loading.gif"/>
+</div>
+</td>
+</tr>
+<tr>
+<td class="member-area-button" data-event-more-view="event-more-view" id="event-more-view-10784877" islive="false" treeid="10784877">
+<div class="member-area-buttons-label">
+<span class="event-more-view">+594</span>
+<img alt="" class="loading-ico" src="/cdn/1-63-180/images/loading.gif"/>
+</div>
+</td>
+</tr> </table>
+</td> <td class="price height-column-with-price first-in-main-row coupone-width-1" colspan="1" data-coeff-uuid="-1462130511-65898036923" data-market-type="RESULT" data-mutable-id="S1915358165" data-sel='{"sn":"Бернли (победа)","mn":"Результат матча","ewc":"1/1 1","cid":65898036923,"prt":"CP","ewf":"1.0","epr":"8.2","prices":{"0":"36/5","1":"8.20","2":"+720","3":"7.20","4":"-0.139","5":"7.20"}}'>
+<span class="selection-link active-selection" data-prt="CP" data-selection-key="9742486@Match_Result.1" data-selection-price="8.2">8.20</span>
+</td>
+<td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="-505511598-65898037101" data-market-type="RESULT" data-mutable-id="S-1309306010" data-sel='{"sn":"Ничья","mn":"Результат матча","ewc":"1/1 1","cid":65898037101,"prt":"CP","ewf":"1.0","epr":"4.9","prices":{"0":"39/10","1":"4.90","2":"+390","3":"3.90","4":"-0.257","5":"3.90"}}'>
+<span class="selection-link active-selection" data-prt="CP" data-selection-key="9742486@Match_Result.draw" data-selection-price="4.9">4.90</span>
+</td>
+<td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="-1462130509-65898036920" data-market-type="RESULT" data-mutable-id="S1919106487" data-sel='{"sn":"Манчестер Юнайтед (победа)","mn":"Результат матча","ewc":"1/1 1","cid":65898036920,"prt":"CP","ewf":"1.0","epr":"1.43","prices":{"0":"43/100","1":"1.43","2":"-233","3":"0.43","4":"0.43","5":"-2.33"}}'>
+<span class="selection-link active-selection" data-prt="CP" data-selection-key="9742486@Match_Result.3" data-selection-price="1.43">1.43</span>
+</td>
+<td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="544863460-65898037285" data-market-type="DOUBLE_CHANCE" data-mutable-id="S-1830547496" data-sel='{"sn":"Бернли (победа) или ничья","mn":"Результат","ewc":"1/1 1","cid":65898037285,"prt":"CP","ewf":"1.0","epr":"3.08","prices":{"0":"52/25","1":"3.08","2":"+208","3":"2.08","4":"-0.481","5":"2.08"}}'>
+<span class="selection-link active-selection" data-prt="CP" data-selection-key="9742486@Result.HD" data-selection-price="3.08">3.08</span>
+</td>
+<td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="544863457-65898037289" data-market-type="DOUBLE_CHANCE" data-mutable-id="S-1836169979" data-sel='{"sn":"Бернли (победа) или Манчестер Юнайтед (победа)","mn":"Результат","ewc":"1/1 1","cid":65898037289,"prt":"CP","ewf":"1.0","epr":"1.22","prices":{"0":"11/50","1":"1.22","2":"-455","3":"0.22","4":"0.22","5":"-4.55"}}'>
+<span class="selection-link active-selection" data-prt="CP" data-selection-key="9742486@Result.HA" data-selection-price="1.22">1.22</span>
+</td>
+<td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="544863243-65898036744" data-market-type="DOUBLE_CHANCE" data-mutable-id="S2057726863" data-sel='{"sn":"Манчестер Юнайтед (победа) или ничья","mn":"Результат","ewc":"1/1 1","cid":65898036744,"prt":"CP","ewf":"1.0","epr":"1.1081081081081081","prices":{"0":"4/37","1":"1.108","2":"-925","3":"0.108","4":"0.108","5":"-9.25"}}'>
+<span class="selection-link active-selection" data-prt="CP" data-selection-key="9742486@Result.AD" data-selection-price="1.10811">1.108</span>
+</td>
+<td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="-2012663112-65898036647" data-market-type="HANDICAP" data-mutable-id="S-526179220" data-sel='{"sn":"Бернли (+1)","mn":"Победа с учетом форы","ewc":"1/1 1","cid":65898036647,"prt":"CP","ewf":"1.0","epr":"2.3899999999999997","prices":{"0":"139/100","1":"2.39","2":"+139","3":"1.39","4":"-0.719","5":"1.39"}}'>
+     (+1.0)<br/> <span class="selection-link active-selection" data-prt="CP" data-selection-key="9742486@To_Win_Match_With_Handicap.HB_H" data-selection-price="2.39">2.39</span>
+</td> <td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="-2012663119-65898036635" data-market-type="HANDICAP" data-mutable-id="S-539298347" data-sel='{"sn":"Манчестер Юнайтед (-1)","mn":"Победа с учетом форы","ewc":"1/1 1","cid":65898036635,"prt":"CP","ewf":"1.0","epr":"1.6666666666666665","prices":{"0":"4/6","1":"1.666","2":"-150","3":"0.666","4":"0.666","5":"-1.50"}}'>
+     (-1.0)<br/> <span class="selection-link active-selection" data-prt="CP" data-selection-key="9742486@To_Win_Match_With_Handicap.HB_A" data-selection-price="1.66667">1.666</span>
+</td> <td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="-1948313568-65898036777" data-market-type="TOTAL" data-mutable-id="S-1802118316" data-sel='{"sn":"Меньше 2.5","mn":"Тотал голов","ewc":"1/1 1","cid":65898036777,"prt":"CP","ewf":"1.0","epr":"2.25","prices":{"0":"5/4","1":"2.25","2":"+125","3":"1.25","4":"-0.80","5":"1.25"}}'>
+     (2.5)<br/> <span class="selection-link active-selection" data-prt="CP" data-selection-key="9742486@Total_Goals.Under_2.5" data-selection-price="2.25">2.25</span>
+</td>
+<td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="-1229674162-65895062546" data-market-type="TOTAL" data-mutable-id="S-1763780702" data-sel='{"sn":"Больше 2.5","mn":"Тотал голов","ewc":"1/1 1","cid":65895062546,"prt":"CP","ewf":"1.0","epr":"1.72","prices":{"0":"18/25","1":"1.72","2":"-139","3":"0.72","4":"0.72","5":"-1.39"}}'>
+     (2.5)<br/> <span class="selection-link active-selection" data-prt="CP" data-selection-key="9742486@Total_Goals.Over_2.5" data-selection-price="1.72">1.72</span>
+</td>
+</tr> </tbody>
+</table>
+<div class="coupon-row-item sport-stats coupon-statistics" data-event-statistics-container="true" data-loaded="false">
+</div>
+</div>
+<div class="bg coupon-row" data-event-name="Вулверхэмптон Уондерерс - Эвертон" data-event-path="Football/England/Premier+League/Wolverhampton+Wanderers+vs+Everton+-+10015424" data-event-treeid="10015424" data-live="false">
+<table class="coupon-row-item">
+<tbody>
+<tr class="sub-row" data-mutable-id="sub-row-1">
+<td class="first member-area" data-member-area="member-area" data-mutable-id="mainRowMembers">
+<table class="member-area-content-table">
+<tr>
+<td class="today-name">
+<div class="command" data-has-additional-markets="true" data-members="true">
+<b class="member-number">1.</b>
+<div class="today-member-name nowrap" data-ellipsis='{"content": {"text": "Вулверхэмптон Уондерерс"}}'>
+<a class="member-link" href="/su/betting/Football/England/Premier+League/Wolverhampton+Wanderers+vs+Everton+-+10015424">
+<span data-member-link="true">Вулверхэмптон Уондерерс</span>
+</a>
+</div>
+</div>
+</td>
+<td class="blurb-icon-td row-span-2 one-line" rowspan="2">
+<div class="broadcasts-menu-container-blurb">
+</div>
+</td>
+<td class="date" rowspan="2">
+  23:15
+ 
+
+ </td>
+</tr>
+<tr>
+<td class="today-name">
+<div class="command" data-has-additional-markets="true" data-members="true">
+<b class="member-number">2.</b>
+<div class="today-member-name nowrap" data-ellipsis='{"content": {"text": "Эвертон"}}'>
+<a class="member-link" href="/su/betting/Football/England/Premier+League/Wolverhampton+Wanderers+vs+Everton+-+10015424">
+<span data-member-link="true">Эвертон</span>
+</a>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td class="main-row-buttons" data-mutable-id="mainRowButtons">
+<table>
+<tr>
+<td class="member-area-button" data-event-statistics="true">
+<div class="member-area-buttons-label">
+<div class="statistics-button-ico"></div>
+<img alt="" class="loading-ico" src="/cdn/1-63-180/images/loading.gif"/>
+</div>
+</td>
+</tr>
+<tr>
+<td class="member-area-button" data-event-more-view="event-more-view" id="event-more-view-10015424" islive="false" treeid="10015424">
+<div class="member-area-buttons-label">
+<span class="event-more-view">+596</span>
+<img alt="" class="loading-ico" src="/cdn/1-63-180/images/loading.gif"/>
+</div>
+</td>
+</tr> </table>
+</td> <td class="price height-column-with-price first-in-main-row coupone-width-1" colspan="1" data-coeff-uuid="-1489675753-65888960247" data-market-type="RESULT" data-mutable-id="S1915358165" data-sel='{"sn":"Вулверхэмптон Уондерерс (победа)","mn":"Результат матча","ewc":"1/1 1","cid":65888960247,"prt":"CP","ewf":"1.0","epr":"2.59","prices":{"0":"159/100","1":"2.59","2":"+159","3":"1.59","4":"-0.629","5":"1.59"}}'>
+<span class="selection-link active-selection" data-prt="CP" data-selection-key="8998020@Match_Result.1" data-selection-price="2.59">2.59</span>
+</td>
+<td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="-533056840-65888960419" data-market-type="RESULT" data-mutable-id="S-1309306010" data-sel='{"sn":"Ничья","mn":"Результат матча","ewc":"1/1 1","cid":65888960419,"prt":"CP","ewf":"1.0","epr":"3.14","prices":{"0":"107/50","1":"3.14","2":"+214","3":"2.14","4":"-0.467","5":"2.14"}}'>
+<span class="selection-link active-selection" data-prt="CP" data-selection-key="8998020@Match_Result.draw" data-selection-price="3.14">3.14</span>
+</td>
+<td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="-1489675751-65888960244" data-market-type="RESULT" data-mutable-id="S1919106487" data-sel='{"sn":"Эвертон (победа)","mn":"Результат матча","ewc":"1/1 1","cid":65888960244,"prt":"CP","ewf":"1.0","epr":"3.125","prices":{"0":"85/40","1":"3.125","2":"+212","3":"2.125","4":"-0.471","5":"2.125"}}'>
+<span class="selection-link active-selection" data-prt="CP" data-selection-key="8998020@Match_Result.3" data-selection-price="3.125">3.125</span>
+</td>
+<td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="517318218-65888960611" data-market-type="DOUBLE_CHANCE" data-mutable-id="S-1830547496" data-sel='{"sn":"Вулверхэмптон Уондерерс (победа) или ничья","mn":"Результат","ewc":"1/1 1","cid":65888960611,"prt":"CP","ewf":"1.0","epr":"1.42","prices":{"0":"21/50","1":"1.42","2":"-238","3":"0.42","4":"0.42","5":"-2.38"}}'>
+<span class="selection-link active-selection" data-prt="CP" data-selection-key="8998020@Result.HD" data-selection-price="1.42">1.42</span>
+</td>
+<td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="517318215-65888960615" data-market-type="DOUBLE_CHANCE" data-mutable-id="S-1836169979" data-sel='{"sn":"Вулверхэмптон Уондерерс (победа) или Эвертон (победа)","mn":"Результат","ewc":"1/1 1","cid":65888960615,"prt":"CP","ewf":"1.0","epr":"1.42","prices":{"0":"21/50","1":"1.42","2":"-238","3":"0.42","4":"0.42","5":"-2.38"}}'>
+<span class="selection-link active-selection" data-prt="CP" data-selection-key="8998020@Result.HA" data-selection-price="1.42">1.42</span>
+</td>
+<td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="517318001-65888960060" data-market-type="DOUBLE_CHANCE" data-mutable-id="S2057726863" data-sel='{"sn":"Эвертон (победа) или ничья","mn":"Результат","ewc":"1/1 1","cid":65888960060,"prt":"CP","ewf":"1.0","epr":"1.5699999999999998","prices":{"0":"57/100","1":"1.57","2":"-176","3":"0.57","4":"0.57","5":"-1.76"}}'>
+<span class="selection-link active-selection" data-prt="CP" data-selection-key="8998020@Result.AD" data-selection-price="1.57">1.57</span>
+</td>
+<td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="-1983320737-65888960596" data-market-type="HANDICAP" data-mutable-id="S2053796509" data-sel='{"sn":"Вулверхэмптон Уондерерс (0)","mn":"Победа с учетом форы","ewc":"1/1 1","cid":65888960596,"prt":"CP","ewf":"1.0","epr":"1.8","prices":{"0":"4/5","1":"1.80","2":"-125","3":"0.80","4":"0.80","5":"-1.25"}}'>
+     (0)<br/> <span class="selection-link active-selection" data-prt="CP" data-selection-key="8998020@To_Win_Match_With_Handicap10.HB_H" data-selection-price="1.8">1.80</span>
+</td> <td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="-1983320744-65888960607" data-market-type="HANDICAP" data-mutable-id="S2040677382" data-sel='{"sn":"Эвертон (0)","mn":"Победа с учетом форы","ewc":"1/1 1","cid":65888960607,"prt":"CP","ewf":"1.0","epr":"2.16","prices":{"0":"29/25","1":"2.16","2":"+116","3":"1.16","4":"-0.862","5":"1.16"}}'>
+     (0)<br/> <span class="selection-link active-selection" data-prt="CP" data-selection-key="8998020@To_Win_Match_With_Handicap10.HB_A" data-selection-price="2.16">2.16</span>
+</td> <td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="-1975858810-65888960089" data-market-type="TOTAL" data-mutable-id="S-1802118316" data-sel='{"sn":"Меньше 2.5","mn":"Тотал голов","ewc":"1/1 1","cid":65888960089,"prt":"CP","ewf":"1.0","epr":"1.63","prices":{"0":"63/100","1":"1.63","2":"-159","3":"0.63","4":"0.63","5":"-1.59"}}'>
+     (2.5)<br/> <span class="selection-link active-selection" data-prt="CP" data-selection-key="8998020@Total_Goals.Under_2.5" data-selection-price="1.63">1.63</span>
+</td>
+<td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="-1257219404-65888960057" data-market-type="TOTAL" data-mutable-id="S-1763780702" data-sel='{"sn":"Больше 2.5","mn":"Тотал голов","ewc":"1/1 1","cid":65888960057,"prt":"CP","ewf":"1.0","epr":"2.42","prices":{"0":"71/50","1":"2.42","2":"+142","3":"1.42","4":"-0.705","5":"1.42"}}'>
+     (2.5)<br/> <span class="selection-link active-selection" data-prt="CP" data-selection-key="8998020@Total_Goals.Over_2.5" data-selection-price="2.42">2.42</span>
+</td>
+</tr> </tbody>
+</table>
+<div class="coupon-row-item sport-stats coupon-statistics" data-event-statistics-container="true" data-loaded="false">
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+ if (document.readyState === "complete") {
+ window.dispatchEvent(new CustomEvent("PreferencesApplier", {'detail': {'category': $('#category21520')}}));
+ } else {
+ document.onreadystatechange = function () {
+ if (document.readyState === "complete") {
+ window.dispatchEvent(new CustomEvent("PreferencesApplier", {'detail': {'category': $('#category21520')}}));
+ }
+ }
+ }
+ </script>
+</div>
+</div>, <div class="category-container" data-category-treeid="22807" data-collapsible="22807" data-collapsible-state="2" data-filtered="true" id="container_22807">
+<table class="category-header">
+<tr>
+<td class="collapse-button buttons-area right-border bottom-border" data-collapsible-clickable-surface="true" rowspan="2">
+<img class="load" src="/cdn/1-63-180/images/loading.gif"/>
+<div class="icon-collapse"></div>
+</td>
+<td class="category-label-td"><a class="category-label-link" href="/su/betting/Football/England/Championship+-+22807"><h2 class="category-label" data-ellipsis="{}"><span class="nowrap">Англия.</span> <span class="nowrap">Чемпион-лига</span></h2></a></td>
+<td class="show-category-events show-full-category" data-category-events-link-container="true" data-collapsing="true" data-state="showFullCategory">
+<a href="/su/betting/Football/England/Championship+-+22807">
+<span data-category-events-link="true">
+<span><img alt="" class="load" src="/cdn/1-63-180/images/loading.gif"/></span>
+<span class="show-all-category-events">Все события</span>
+<span class="show-selected-category-events">Назад</span>
+</span>
+</a>
+</td>
+<td class="sport-stat-td">
+<a data-tooltip='{"position":{"container":".header-content"}}' href="/su/stats/5/71">
+<span class="sport-stat-icon-link"></span>
+</a>
+<span class="tooltip">
+ Статистика
+ </span>
+</td>
+</tr>
+</table>
+<div class="category-content" data-collapsing="true" data-content="present" id="category22807">
+<div class="foot-market-border">
+<div class="foot-market" data-sport-type="Football">
+<div class="scoreboard-component-replacement" data-scoreboard-component="true"></div>
+<table class="coupon-row-item coupone-labels">
+<tbody>
+<tr>
+<th class="first"><span class="name">Название события</span></th>
+<th class="main-row-buttons-header"></th>
+<th class="coupone coupone-width-10" colspan="1" data-tooltip-parent="{}">
+<span class="hint">
+<b>1</b>
+</span>
+<div class="tooltip" id="hint_22807_1">
+ Победа 1
+ </div>
+</th>
+<th class="coupone coupone-width-10" colspan="1" data-tooltip-parent="{}">
+<span class="hint">
+<b>X</b>
+</span>
+<div class="tooltip" id="hint_22807_2">
+ Ничья
+ </div>
+</th>
+<th class="coupone coupone-width-10" colspan="1" data-tooltip-parent="{}">
+<span class="hint">
+<b>2</b>
+</span>
+<div class="tooltip" id="hint_22807_3">
+ Победа 2
+ </div>
+</th>
+<th class="coupone coupone-width-10" colspan="1" data-tooltip-parent="{}">
+<span class="hint">
+<b>1X</b>
+</span>
+<div class="tooltip" id="hint_22807_4">
+ Победа 1 или Ничья
+ </div>
+</th>
+<th class="coupone coupone-width-10" colspan="1" data-tooltip-parent="{}">
+<span class="hint">
+<b>12</b>
+</span>
+<div class="tooltip" id="hint_22807_5">
+ Победа 1 или Победа 2
+ </div>
+</th>
+<th class="coupone coupone-width-10" colspan="1" data-tooltip-parent="{}">
+<span class="hint">
+<b>X2</b>
+</span>
+<div class="tooltip" id="hint_22807_6">
+ Ничья или Победа 2
+ </div>
+</th>
+<th class="coupone coupone-width-10" colspan="1" data-tooltip-parent="{}">
+<span class="hint">
+ Фора<b>1</b>
+</span>
+<div class="tooltip" id="hint_22807_7">
+ Фора, голы
+ </div>
+</th>
+<th class="coupone coupone-width-10" colspan="1" data-tooltip-parent="{}">
+<span class="hint">
+ Фора<b>2</b>
+</span>
+<div class="tooltip" id="hint_22807_8">
+ Фора, голы
+ </div>
+</th>
+<th class="coupone coupone-width-10" colspan="1" data-tooltip-parent="{}">
+<span class="hint">
+ Меньше
+ </span>
+<div class="tooltip" id="hint_22807_9">
+ Тотал голов. Меньше
+ </div>
+</th>
+<th class="coupone coupone-width-10" colspan="1" data-tooltip-parent="{}">
+<span class="hint">
+ Больше
+ </span>
+<div class="tooltip" id="hint_22807_10">
+ Тотал голов. Больше
+ </div>
+</th>
+</tr>
+</tbody>
+</table>
+<div class="bg coupon-row" data-event-name="Лутон Таун - Куинз Парк Рейнджерс" data-event-path="Football/England/Championship/Luton+Town+vs+Queens+Park+Rangers+-+10835268" data-event-treeid="10835268" data-live="false">
+<table class="coupon-row-item">
+<tbody>
+<tr class="sub-row" data-mutable-id="sub-row-1">
+<td class="first member-area" data-member-area="member-area" data-mutable-id="mainRowMembers">
+<table class="member-area-content-table">
+<tr>
+<td class="today-name">
+<div class="command" data-has-additional-markets="true" data-members="true">
+<b class="member-number">1.</b>
+<div class="today-member-name nowrap" data-ellipsis='{"content": {"text": "Лутон Таун"}}'>
+<a class="member-link" href="/su/betting/Football/England/Championship/Luton+Town+vs+Queens+Park+Rangers+-+10835268">
+<span data-member-link="true">Лутон Таун</span>
+</a>
+</div>
+</div>
+</td>
+<td class="blurb-icon-td row-span-2 one-line" rowspan="2">
+<div class="broadcasts-menu-container-blurb">
+</div>
+</td>
+<td class="date" rowspan="2">
+  22:00
+ 
+
+ </td>
+</tr>
+<tr>
+<td class="today-name">
+<div class="command" data-has-additional-markets="true" data-members="true">
+<b class="member-number">2.</b>
+<div class="today-member-name nowrap" data-ellipsis='{"content": {"text": "Куинз Парк Рейнджерс"}}'>
+<a class="member-link" href="/su/betting/Football/England/Championship/Luton+Town+vs+Queens+Park+Rangers+-+10835268">
+<span data-member-link="true">Куинз Парк Рейнджерс</span>
+</a>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td class="main-row-buttons" data-mutable-id="mainRowButtons">
+<table>
+<tr>
+<td class="member-area-button" data-event-statistics="true">
+<div class="member-area-buttons-label">
+<div class="statistics-button-ico"></div>
+<img alt="" class="loading-ico" src="/cdn/1-63-180/images/loading.gif"/>
+</div>
+</td>
+</tr>
+<tr>
+<td class="member-area-button" data-event-more-view="event-more-view" id="event-more-view-10835268" islive="false" treeid="10835268">
+<div class="member-area-buttons-label">
+<span class="event-more-view">+418</span>
+<img alt="" class="loading-ico" src="/cdn/1-63-180/images/loading.gif"/>
+</div>
+</td>
+</tr> </table>
+</td> <td class="price height-column-with-price first-in-main-row coupone-width-1" colspan="1" data-coeff-uuid="-1460302674-65896807458" data-market-type="RESULT" data-mutable-id="S1915358165" data-sel='{"sn":"Лутон Таун (победа)","mn":"Результат матча","ewc":"1/1 1","cid":65896807458,"prt":"CP","ewf":"1.0","epr":"2.34","prices":{"0":"67/50","1":"2.34","2":"+134","3":"1.34","4":"-0.747","5":"1.34"}}'>
+<span class="selection-link active-selection" data-prt="CP" data-selection-key="9791887@Match_Result.1" data-selection-price="2.34">2.34</span>
+</td>
+<td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="-503683761-65896807598" data-market-type="RESULT" data-mutable-id="S-1309306010" data-sel='{"sn":"Ничья","mn":"Результат матча","ewc":"1/1 1","cid":65896807598,"prt":"CP","ewf":"1.0","epr":"3.46","prices":{"0":"123/50","1":"3.46","2":"+246","3":"2.46","4":"-0.406","5":"2.46"}}'>
+<span class="selection-link active-selection" data-prt="CP" data-selection-key="9791887@Match_Result.draw" data-selection-price="3.46">3.46</span>
+</td>
+<td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="-1460302672-65896807456" data-market-type="RESULT" data-mutable-id="S1919106487" data-sel='{"sn":"Куинз Парк Рейнджерс (победа)","mn":"Результат матча","ewc":"1/1 1","cid":65896807456,"prt":"CP","ewf":"1.0","epr":"3.1","prices":{"0":"21/10","1":"3.10","2":"+210","3":"2.10","4":"-0.476","5":"2.10"}}'>
+<span class="selection-link active-selection" data-prt="CP" data-selection-key="9791887@Match_Result.3" data-selection-price="3.1">3.10</span>
+</td>
+<td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="546691297-65896807764" data-market-type="DOUBLE_CHANCE" data-mutable-id="S-1830547496" data-sel='{"sn":"Лутон Таун (победа) или ничья","mn":"Результат","ewc":"1/1 1","cid":65896807764,"prt":"CP","ewf":"1.0","epr":"1.4","prices":{"0":"2/5","1":"1.40","2":"-250","3":"0.40","4":"0.40","5":"-2.50"}}'>
+<span class="selection-link active-selection" data-prt="CP" data-selection-key="9791887@Result.HD" data-selection-price="1.4">1.40</span>
+</td>
+<td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="546691294-65896807765" data-market-type="DOUBLE_CHANCE" data-mutable-id="S-1836169979" data-sel='{"sn":"Лутон Таун (победа) или Куинз Парк Рейнджерс (победа)","mn":"Результат","ewc":"1/1 1","cid":65896807765,"prt":"CP","ewf":"1.0","epr":"1.34","prices":{"0":"17/50","1":"1.34","2":"-294","3":"0.34","4":"0.34","5":"-2.94"}}'>
+<span class="selection-link active-selection" data-prt="CP" data-selection-key="9791887@Result.HA" data-selection-price="1.34">1.34</span>
+</td>
+<td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="546691080-65896807307" data-market-type="DOUBLE_CHANCE" data-mutable-id="S2057726863" data-sel='{"sn":"Куинз Парк Рейнджерс (победа) или ничья","mn":"Результат","ewc":"1/1 1","cid":65896807307,"prt":"CP","ewf":"1.0","epr":"1.6400000000000001","prices":{"0":"16/25","1":"1.64","2":"-157","3":"0.64","4":"0.64","5":"-1.57"}}'>
+<span class="selection-link active-selection" data-prt="CP" data-selection-key="9791887@Result.AD" data-selection-price="1.64">1.64</span>
+</td>
+<td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="-1953947658-65896807751" data-market-type="HANDICAP" data-mutable-id="S2053796509" data-sel='{"sn":"Лутон Таун (0)","mn":"Победа с учетом форы","ewc":"1/1 1","cid":65896807751,"prt":"CP","ewf":"1.0","epr":"1.72","prices":{"0":"18/25","1":"1.72","2":"-139","3":"0.72","4":"0.72","5":"-1.39"}}'>
+     (0)<br/> <span class="selection-link active-selection" data-prt="CP" data-selection-key="9791887@To_Win_Match_With_Handicap10.HB_H" data-selection-price="1.72">1.72</span>
+</td> <td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="-1953947665-65896807762" data-market-type="HANDICAP" data-mutable-id="S2040677382" data-sel='{"sn":"Куинз Парк Рейнджерс (0)","mn":"Победа с учетом форы","ewc":"1/1 1","cid":65896807762,"prt":"CP","ewf":"1.0","epr":"2.2800000000000002","prices":{"0":"32/25","1":"2.28","2":"+128","3":"1.28","4":"-0.782","5":"1.28"}}'>
+     (0)<br/> <span class="selection-link active-selection" data-prt="CP" data-selection-key="9791887@To_Win_Match_With_Handicap10.HB_A" data-selection-price="2.28">2.28</span>
+</td> <td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="-1946485731-65896807333" data-market-type="TOTAL" data-mutable-id="S-1802118316" data-sel='{"sn":"Меньше 2.5","mn":"Тотал голов","ewc":"1/1 1","cid":65896807333,"prt":"CP","ewf":"1.0","epr":"1.8599999999999999","prices":{"0":"43/50","1":"1.86","2":"-117","3":"0.86","4":"0.86","5":"-1.17"}}'>
+     (2.5)<br/> <span class="selection-link active-selection" data-prt="CP" data-selection-key="9791887@Total_Goals.Under_2.5" data-selection-price="1.86">1.86</span>
+</td>
+<td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="-1227846325-65896807303" data-market-type="TOTAL" data-mutable-id="S-1763780702" data-sel='{"sn":"Больше 2.5","mn":"Тотал голов","ewc":"1/1 1","cid":65896807303,"prt":"CP","ewf":"1.0","epr":"2.05","prices":{"0":"21/20","1":"2.05","2":"+105","3":"1.05","4":"-0.953","5":"1.05"}}'>
+     (2.5)<br/> <span class="selection-link active-selection" data-prt="CP" data-selection-key="9791887@Total_Goals.Over_2.5" data-selection-price="2.05">2.05</span>
+</td>
+</tr> </tbody>
+</table>
+<div class="coupon-row-item sport-stats coupon-statistics" data-event-statistics-container="true" data-loaded="false">
+</div>
+</div>
+<div class="bg coupon-row" data-event-name="Борнмут - Миллуолл" data-event-path="Football/England/Championship/Bournemouth+vs+Millwall+-+10761884" data-event-treeid="10761884" data-live="false">
+<table class="coupon-row-item">
+<tbody>
+<tr class="sub-row" data-mutable-id="sub-row-1">
+<td class="first member-area" data-member-area="member-area" data-mutable-id="mainRowMembers">
+<table class="member-area-content-table">
+<tr>
+<td class="today-name">
+<div class="command" data-has-additional-markets="true" data-members="true">
+<b class="member-number">1.</b>
+<div class="today-member-name nowrap" data-ellipsis='{"content": {"text": "Борнмут"}}'>
+<a class="member-link" href="/su/betting/Football/England/Championship/Bournemouth+vs+Millwall+-+10761884">
+<span data-member-link="true">Борнмут</span>
+</a>
+</div>
+</div>
+</td>
+<td class="blurb-icon-td row-span-2 one-line" rowspan="2">
+<div class="broadcasts-menu-container-blurb">
+</div>
+</td>
+<td class="date" rowspan="2">
+  22:45
+ 
+
+ </td>
+</tr>
+<tr>
+<td class="today-name">
+<div class="command" data-has-additional-markets="true" data-members="true">
+<b class="member-number">2.</b>
+<div class="today-member-name nowrap" data-ellipsis='{"content": {"text": "Миллуолл"}}'>
+<a class="member-link" href="/su/betting/Football/England/Championship/Bournemouth+vs+Millwall+-+10761884">
+<span data-member-link="true">Миллуолл</span>
+</a>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td class="main-row-buttons" data-mutable-id="mainRowButtons">
+<table>
+<tr>
+<td class="member-area-button" data-event-statistics="true">
+<div class="member-area-buttons-label">
+<div class="statistics-button-ico"></div>
+<img alt="" class="loading-ico" src="/cdn/1-63-180/images/loading.gif"/>
+</div>
+</td>
+</tr>
+<tr>
+<td class="member-area-button" data-event-more-view="event-more-view" id="event-more-view-10761884" islive="false" treeid="10761884">
+<div class="member-area-buttons-label">
+<span class="event-more-view">+360</span>
+<img alt="" class="loading-ico" src="/cdn/1-63-180/images/loading.gif"/>
+</div>
+</td>
+</tr> </table>
+</td> <td class="price height-column-with-price first-in-main-row coupone-width-1" colspan="1" data-coeff-uuid="-1462961124-65895494254" data-market-type="RESULT" data-mutable-id="S1915358165" data-sel='{"sn":"Борнмут (победа)","mn":"Результат матча","ewc":"1/1 1","cid":65895494254,"prt":"CP","ewf":"1.0","epr":"1.8","prices":{"0":"4/5","1":"1.80","2":"-125","3":"0.80","4":"0.80","5":"-1.25"}}'>
+<span class="selection-link active-selection" data-prt="CP" data-selection-key="9720037@Match_Result.1" data-selection-price="1.8">1.80</span>
+</td>
+<td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="-506342211-65895494396" data-market-type="RESULT" data-mutable-id="S-1309306010" data-sel='{"sn":"Ничья","mn":"Результат матча","ewc":"1/1 1","cid":65895494396,"prt":"CP","ewf":"1.0","epr":"3.7","prices":{"0":"27/10","1":"3.70","2":"+270","3":"2.70","4":"-0.371","5":"2.70"}}'>
+<span class="selection-link active-selection" data-prt="CP" data-selection-key="9720037@Match_Result.draw" data-selection-price="3.7">3.70</span>
+</td>
+<td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="-1462961122-65895494252" data-market-type="RESULT" data-mutable-id="S1919106487" data-sel='{"sn":"Миллуолл (победа)","mn":"Результат матча","ewc":"1/1 1","cid":65895494252,"prt":"CP","ewf":"1.0","epr":"4.7","prices":{"0":"37/10","1":"4.70","2":"+370","3":"3.70","4":"-0.271","5":"3.70"}}'>
+<span class="selection-link active-selection" data-prt="CP" data-selection-key="9720037@Match_Result.3" data-selection-price="4.7">4.70</span>
+</td>
+<td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="544032847-65895494561" data-market-type="DOUBLE_CHANCE" data-mutable-id="S-1830547496" data-sel='{"sn":"Борнмут (победа) или ничья","mn":"Результат","ewc":"1/1 1","cid":65895494561,"prt":"CP","ewf":"1.0","epr":"1.22","prices":{"0":"11/50","1":"1.22","2":"-455","3":"0.22","4":"0.22","5":"-4.55"}}'>
+<span class="selection-link active-selection" data-prt="CP" data-selection-key="9720037@Result.HD" data-selection-price="1.22">1.22</span>
+</td>
+<td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="544032844-65895494562" data-market-type="DOUBLE_CHANCE" data-mutable-id="S-1836169979" data-sel='{"sn":"Борнмут (победа) или Миллуолл (победа)","mn":"Результат","ewc":"1/1 1","cid":65895494562,"prt":"CP","ewf":"1.0","epr":"1.31","prices":{"0":"31/100","1":"1.31","2":"-323","3":"0.31","4":"0.31","5":"-3.23"}}'>
+<span class="selection-link active-selection" data-prt="CP" data-selection-key="9720037@Result.HA" data-selection-price="1.31">1.31</span>
+</td>
+<td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="544032630-65895494096" data-market-type="DOUBLE_CHANCE" data-mutable-id="S2057726863" data-sel='{"sn":"Миллуолл (победа) или ничья","mn":"Результат","ewc":"1/1 1","cid":65895494096,"prt":"CP","ewf":"1.0","epr":"2.08","prices":{"0":"27/25","1":"2.08","2":"+108","3":"1.08","4":"-0.926","5":"1.08"}}'>
+<span class="selection-link active-selection" data-prt="CP" data-selection-key="9720037@Result.AD" data-selection-price="2.08">2.08</span>
+</td>
+<td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="-2013493725-65895494009" data-market-type="HANDICAP" data-mutable-id="S-526179220" data-sel='{"sn":"Борнмут (-1)","mn":"Победа с учетом форы","ewc":"1/1 1","cid":65895494009,"prt":"CP","ewf":"1.0","epr":"2.56","prices":{"0":"39/25","1":"2.56","2":"+156","3":"1.56","4":"-0.641","5":"1.56"}}'>
+     (-1.0)<br/> <span class="selection-link active-selection" data-prt="CP" data-selection-key="9720037@To_Win_Match_With_Handicap.HB_H" data-selection-price="2.56">2.56</span>
+</td> <td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="-2013493732-65895494000" data-market-type="HANDICAP" data-mutable-id="S-539298347" data-sel='{"sn":"Миллуолл (+1)","mn":"Победа с учетом форы","ewc":"1/1 1","cid":65895494000,"prt":"CP","ewf":"1.0","epr":"1.5899999999999999","prices":{"0":"59/100","1":"1.59","2":"-170","3":"0.59","4":"0.59","5":"-1.70"}}'>
+     (+1.0)<br/> <span class="selection-link active-selection" data-prt="CP" data-selection-key="9720037@To_Win_Match_With_Handicap.HB_A" data-selection-price="1.59">1.59</span>
+</td> <td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="-1949144181-65895494128" data-market-type="TOTAL" data-mutable-id="S-1802118316" data-sel='{"sn":"Меньше 2.5","mn":"Тотал голов","ewc":"1/1 1","cid":65895494128,"prt":"CP","ewf":"1.0","epr":"1.78","prices":{"0":"39/50","1":"1.78","2":"-128","3":"0.78","4":"0.78","5":"-1.28"}}'>
+     (2.5)<br/> <span class="selection-link active-selection" data-prt="CP" data-selection-key="9720037@Total_Goals.Under_2.5" data-selection-price="1.78">1.78</span>
+</td>
+<td class="price height-column-with-price coupone-width-1" colspan="1" data-coeff-uuid="-1230504775-65895494092" data-market-type="TOTAL" data-mutable-id="S-1763780702" data-sel='{"sn":"Больше 2.5","mn":"Тотал голов","ewc":"1/1 1","cid":65895494092,"prt":"CP","ewf":"1.0","epr":"2.15","prices":{"0":"23/20","1":"2.15","2":"+115","3":"1.15","4":"-0.87","5":"1.15"}}'>
+     (2.5)<br/> <span class="selection-link active-selection" data-prt="CP" data-selection-key="9720037@Total_Goals.Over_2.5" data-selection-price="2.15">2.15</span>
+</td>
+</tr> </tbody>
+</table>
+<div class="coupon-row-item sport-stats coupon-statistics" data-event-statistics-container="true" data-loaded="false">
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+ if (document.readyState === "complete") {
+ window.dispatchEvent(new CustomEvent("PreferencesApplier", {'detail': {'category': $('#category22807')}}));
+ } else {
+ document.onreadystatechange = function () {
+ if (document.readyState === "complete") {
+ window.dispatchEvent(new CustomEvent("PreferencesApplier", {'detail': {'category': $('#category22807')}}));
+ }
+ }
+ }
+ </script>
+</div>
+</div>]

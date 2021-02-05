@@ -1,0 +1,10 @@
+*desktop.ini
+.idea
+.idea/
+__pycache__/
+*.ipynb_checkpoints/
+/python_pandas/data/
+*.sqlite3
+!/python_sqlite/database.sqlite3
+.venv/
+venv/
